@@ -12,5 +12,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## 🌐 Deploy
-Upload this folder to Hugging Face Spaces (Gradio).
+
