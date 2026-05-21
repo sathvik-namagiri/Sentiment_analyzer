@@ -1,0 +1,6 @@
+gradio
+numpy
+scikit-learn
+gensim
+nltk
+joblib
